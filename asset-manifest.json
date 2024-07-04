@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/photograph-website/static/css/main.4e074d7f.css",
+    "main.js": "/photograph-website/static/js/main.5e7ac390.js",
+    "static/media/indian.webp": "/photograph-website/static/media/indian.4645fcdc2baf8f783093.webp",
+    "static/media/zeeshan.jpg": "/photograph-website/static/media/zeeshan.4f499d318284421b3256.jpg",
+    "static/media/zeey.jpg": "/photograph-website/static/media/zeey.ba6213e9eaa2de392def.jpg",
+    "static/media/toa.jpg": "/photograph-website/static/media/toa.224486c8f6c729beb771.jpg",
+    "static/media/outwin.jfif": "/photograph-website/static/media/outwin.f4a99f75cc02de9aba6a.jfif",
+    "index.html": "/photograph-website/index.html",
+    "main.4e074d7f.css.map": "/photograph-website/static/css/main.4e074d7f.css.map",
+    "main.5e7ac390.js.map": "/photograph-website/static/js/main.5e7ac390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e074d7f.css",
+    "static/js/main.5e7ac390.js"
+  ]
+}
