@@ -1,0 +1,13 @@
+.About{
+    display: flex;
+    margin: 1rem;
+    padding: 1rem;
+    gap: 1rem;
+}
+.btn button{
+    background:black;
+    color: maroon;
+}
+.my-pic img{
+    border-radius: 10px 10px;
+}

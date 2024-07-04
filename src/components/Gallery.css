@@ -1,0 +1,17 @@
+/* .gallery{
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column-width: 66%;
+    -moz-column-width: 66%;
+    column-width: 66%;
+    padding: 0 10px;
+} */
+ .gallery{
+    display: flex;
+    flex-direction: column;
+    text-align: bottom;
+    gap: 1 rem;
+    flex-wrap: wrap;
+    padding: o 12px;
+ }
